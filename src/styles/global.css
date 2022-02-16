@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'PingFangSC-Semibold';
+    src: url('../assets/PingFangSC-Semibold.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+html{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,"Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",SimSun, sans-serif;    font-size: 14px;
+    color: rgba(72,73,77,1);
+}
+
+a{
+    color: rgba(144, 145, 153, 1);
+}
+
+a:hover{
+    color: rgba(28, 146, 255, 1);
+}
